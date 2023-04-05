@@ -1,0 +1,12 @@
+﻿  main.c
+E:\myCproject\函数交换值\函数交换值\main.c(18,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+E:\myCproject\函数交换值\函数交换值\main.c(18,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+E:\myCproject\函数交换值\函数交换值\main.c(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+E:\myCproject\函数交换值\函数交换值\main.c(19,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+E:\myCproject\函数交换值\函数交换值\main.c(35,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+E:\myCproject\函数交换值\函数交换值\main.c(35,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+E:\myCproject\函数交换值\函数交换值\main.c(36,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+E:\myCproject\函数交换值\函数交换值\main.c(36,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+E:\myCproject\函数交换值\函数交换值\main.c(37,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+E:\myCproject\函数交换值\函数交换值\main.c(37,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+  函数交换值.vcxproj -> E:\myCproject\函数交换值\x64\Debug\函数交换值.exe

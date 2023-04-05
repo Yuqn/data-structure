@@ -1,0 +1,4 @@
+﻿  main.c
+E:\myCproject\运算符\运算符\main.c(30,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\myCproject\运算符\运算符\main.c(30,9): message : 请考虑在格式字符串中使用“%zd”
+  运算符.vcxproj -> E:\myCproject\运算符\x64\Debug\运算符.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+E:\myCproject\指针合集\指针合集\main.c(35,6): warning C4133: “初始化”: 从“void (__cdecl *)(int *)”到“int (__cdecl *)(int *)”的类型不兼容
+E:\myCproject\指针合集\指针合集\main.c(39,30): warning C4133: “初始化”: 从“void (__cdecl *)(int *)”到“int (__cdecl *)(int *)”的类型不兼容
+  指针合集.vcxproj -> E:\myCproject\指针合集\x64\Debug\指针合集.exe

@@ -1,0 +1,3 @@
+﻿  main.c
+E:\myCproject\数据结构-08-栈-链式栈\数据结构-08-栈-链式栈\main.c(30,18): warning C4047: “=”:“StackList *”与“int”的间接级别不同
+  数据结构-08-栈-链式栈.vcxproj -> E:\myCproject\数据结构-08-栈-链式栈\x64\Debug\数据结构-08-栈-链式栈.exe

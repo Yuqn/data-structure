@@ -1,0 +1,3 @@
+﻿  main.c
+E:\myCproject\指针进阶\指针进阶\main.c(31,7): warning C4101: “p_arr_one”: 未引用的局部变量
+  指针进阶.vcxproj -> E:\myCproject\指针进阶\x64\Debug\指针进阶.exe

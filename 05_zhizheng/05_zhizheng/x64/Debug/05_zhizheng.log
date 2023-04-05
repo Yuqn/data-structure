@@ -1,0 +1,3 @@
+﻿  main.c
+E:\myCproject\05_zhizheng\05_zhizheng\main.c(28,8): warning C4047: “初始化”:“char *”与“char (*)[4]”的间接级别不同
+  05_zhizheng.vcxproj -> E:\myCproject\05_zhizheng\x64\Debug\05_zhizheng.exe

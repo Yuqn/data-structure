@@ -1,0 +1,12 @@
+﻿  func.c
+E:\myCproject\04_functionProject\04_functionProject\func.c(11,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\myCproject\04_functionProject\04_functionProject\func.c(11,9): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+E:\myCproject\04_functionProject\04_functionProject\func.c(12,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\myCproject\04_functionProject\04_functionProject\func.c(12,9): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+E:\myCproject\04_functionProject\04_functionProject\func.c(13,22): warning C4047: “return”:“int”与“int *”的间接级别不同
+E:\myCproject\04_functionProject\04_functionProject\func.c(37,47): warning C4047: “函数”:“int *”与“char (*)[10]”的间接级别不同
+E:\myCproject\04_functionProject\04_functionProject\func.c(37,40): warning C4024: “get_max”: 形参和实参 1 的类型不同
+E:\myCproject\04_functionProject\04_functionProject\func.c(37,56): warning C4047: “函数”:“int *”与“char (*)[10]”的间接级别不同
+E:\myCproject\04_functionProject\04_functionProject\func.c(37,49): warning C4024: “get_max”: 形参和实参 2 的类型不同
+E:\myCproject\04_functionProject\04_functionProject\func.c(25,8): warning C4047: “初始化”:“char *”与“char (*)[10]”的间接级别不同
+  04_functionProject.vcxproj -> E:\myCproject\04_functionProject\x64\Debug\04_functionProject.exe

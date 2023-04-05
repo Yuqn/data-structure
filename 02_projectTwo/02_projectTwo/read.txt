@@ -1,0 +1,40 @@
+一、定义常量 
+const（本质还是变量）
+#define （常量）
+	// 定义常量 define
+	#define MAX 10
+	int main() {
+		// 定义常量 const
+		const int num = 20;
+		printf("const修饰常量%d\n",num);
+		printf("define修饰常量%d\n", MAX);
+		return 0;
+	}
+二、定义字符串
+char str1[] = "abcde";
+char str2[] = { 'a','b','c','d','e','\0' };
+	int main() {
+		// 定义字符串
+		char str1[] = "abcde";
+		char str2[] = { 'a','b','c','d','e','\0' };
+		printf("字符串str1%s\n", str1);
+		printf("字符串str2%s\n", str2);
+		printf("字符串str1长度%d\n", strlen(str1));
+	}
+三、源码、反码、补码
+	计算机中数字都是存补码
+	正数第一位为0，负数第一位为1
+	正数的源码、反码、补码相同
+	负数的反码是源码第一位不变，其他取反；补码是反码加一
+四、关键字
+	register：将变量存到寄存器（一般存在内存）register int a = 10;
+	unsigned：变量不能带符号
+	static：静态变量、函数（修饰的变量、函数只能在本身源文件中使用）
+五、宏的使用
+	// 定义宏
+	#define MAX_S(X,Y)(X>Y?X:Y)
+	int main(){
+		// 宏
+		printf("宏的使用%d\n", MAX_S(10, 20));
+	}
+六、地址 %p

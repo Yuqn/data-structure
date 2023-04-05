@@ -1,0 +1,7 @@
+函数
+1、strcpy(a,b)
+	将b字符数组拷贝到a中，如char a[10] = "abcdefg";char b[10] = "yuqn";
+	则 a 为yuqn\0fg.
+2、memset(seg,val,num)
+	将seg字符数组中前num个字符替换为val
+3、

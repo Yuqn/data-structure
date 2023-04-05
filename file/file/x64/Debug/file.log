@@ -1,0 +1,4 @@
+﻿  main.c
+E:\myCproject\file\file\main.c(8,21): warning C4129: “m”: 不可识别的字符转义序列
+E:\myCproject\file\file\main.c(8,21): warning C4129: “l”: 不可识别的字符转义序列
+  file.vcxproj -> E:\myCproject\file\x64\Debug\file.exe

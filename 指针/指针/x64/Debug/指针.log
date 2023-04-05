@@ -1,0 +1,11 @@
+﻿  main.c
+E:\myCproject\指针\指针\main.c(24,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+E:\myCproject\指针\指针\main.c(24,9): message : 请考虑在格式字符串中使用“%lld”
+E:\myCproject\指针\指针\main.c(24,9): message : 请考虑在格式字符串中使用“%Id”
+E:\myCproject\指针\指针\main.c(24,9): message : 请考虑在格式字符串中使用“%I64d”
+E:\myCproject\指针\指针\main.c(30,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int **”
+E:\myCproject\指针\指针\main.c(30,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int **" 的参数 1 冲突
+E:\myCproject\指针\指针\main.c(31,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int **”
+E:\myCproject\指针\指针\main.c(31,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int **" 的参数 1 冲突
+E:\myCproject\指针\指针\main.c(8,7): warning C4047: “初始化”:“int *”与“int (*)[3]”的间接级别不同
+  指针.vcxproj -> E:\myCproject\指针\x64\Debug\指针.exe
